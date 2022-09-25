@@ -15,12 +15,13 @@ class _SplashHeadingState extends State<SplashHeading> {
       
 
       decoration: BoxDecoration(
-        color: Color(0xffe5e5e5)
+        color: Colors.transparent
       
       ),
       child: Column(children: [
         Image(
-          width: 301.w,
+          width: double.infinity,
+          //301.w,
           height: 103.h,
           image: AssetImage('Assets/Summer.png')),
         Image(

@@ -67,6 +67,12 @@ flutter:
     - Assets/Program.png
     - Assets/oop.png
     - Assets/2022.png
+    - Assets/Sign_Signup/bubble.jpg
+    - Assets/Sign_Signup/littles.png
+    - Assets/Sign_Signup/children.png
+    - Assets/Sign_Signup/adult.png
+    - Assets/Sign_Signup/teens.png
+    - Assets/Sign_Signup/openbook.jpg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
