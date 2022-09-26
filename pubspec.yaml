@@ -67,6 +67,11 @@ flutter:
     - Assets/Program.png
     - Assets/oop.png
     - Assets/2022.png
+    - Assets/account.png
+    - Assets/reset.png
+    - Assets/noaccount.png
+    - Assets/resetpass.png
+    - Assets/OceansofPossibility.png
     - Assets/Sign_Signup/bubble.jpg
     - Assets/Sign_Signup/littles.png
     - Assets/Sign_Signup/children.png

@@ -1,23 +1,23 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-class SignButton extends StatelessWidget {
+class ButtonsRed extends StatelessWidget {
   String text;
-  Color setcolor;
+  //Color setcolor;
   VoidCallback onPressed;
-   SignButton({super.key,this.text='',this.setcolor=Colors.teal, required this.onPressed});
+   ButtonsRed({super.key,required this.onPressed,this.text=''});
 
   @override
   Widget build(BuildContext context) {
     return SizedBox(
-      height: 60.h,
-      width: 150.w,
+      height: 49.h,
+      width: 203.w,
       child: ElevatedButton(
         
         onPressed: onPressed,
         style: ElevatedButton.styleFrom(
-         backgroundColor: setcolor,
+         backgroundColor: const Color(0xffff5454),
           shape: RoundedRectangleBorder(
-            borderRadius: BorderRadius.circular(10)
+            borderRadius: BorderRadius.circular(23.38)
           )
         ),
         child: Text(text),
