@@ -15,7 +15,7 @@ class _SplashHeadingState extends State<SplashHeading> {
       
 
       decoration: BoxDecoration(
-        color: Colors.transparent
+        color: Colors.white
       
       ),
       child: Column(children: [

@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 class RedLine extends StatelessWidget {
- 
-  const RedLine({super.key});
+ double height;
+   RedLine({super.key,this.height=6});
 
   @override
   Widget build(BuildContext context) {
     return Container(
-height: 6.h,
+height: height.h,
 width: double.infinity,
 color: Color(0xffFF5454),
     );

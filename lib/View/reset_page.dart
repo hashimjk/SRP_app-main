@@ -71,7 +71,7 @@ class _ResetPageScreenState extends State<ResetPageScreen> {
           ,SizedBox(height: 75.h,)
           //Adding sign up text in the end 
       
-          ,GestureDetector(onTap: () {
+      ,GestureDetector(onTap: () {
         
           },
         child: Image(image: AssetImage('Assets/account.png')),

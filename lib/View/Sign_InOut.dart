@@ -32,7 +32,7 @@ class _SignInOutState extends State<SignInOut> {
             ),
           ),
           //red line in between
-         const  RedLine(),
+           RedLine(),
           //Sections with background
           Expanded(
             flex: 2,  

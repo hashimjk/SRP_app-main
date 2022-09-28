@@ -37,6 +37,7 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
   flutter_screenutil: ^5.5.4
+  google_fonts: ^3.0.1
 
 dev_dependencies:
   flutter_test:
@@ -70,7 +71,21 @@ flutter:
     - Assets/account.png
     - Assets/reset.png
     - Assets/noaccount.png
+    - Assets/trophy.png
+    - Assets/mr.png
+    - Assets/button.png
+    - Assets/1.png
+    - Assets/2.png
+    - Assets/3.png
+    - Assets/4.png
+    - Assets/Ibutton.png
+    - Assets/Addreader.png
+    - Assets/ring.png
+    - Assets/Bookstack 1.png
+    - Assets/person.png
     - Assets/resetpass.png
+    - Assets/home_white.png
+    - Assets/home golden.png
     - Assets/OceansofPossibility.png
     - Assets/Sign_Signup/bubble.jpg
     - Assets/Sign_Signup/littles.png

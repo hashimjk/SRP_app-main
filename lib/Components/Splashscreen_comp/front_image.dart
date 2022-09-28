@@ -9,7 +9,7 @@ class SplashFrontImage extends StatelessWidget {
       height: 500 .h,
       width: 500.w,
       decoration: BoxDecoration(
-        
+        color: Colors.white,
         image: DecorationImage(
           fit: BoxFit.fill,
           image: AssetImage('Assets/oop.png'))
